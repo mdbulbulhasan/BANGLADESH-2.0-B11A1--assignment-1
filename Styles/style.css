@@ -110,3 +110,54 @@
   margin: 76.8px 61.44px;
 }
 /* Hero Section End */
+
+/* Pillars of "Bangladesh 2.0 Start */
+.pillar {
+  width: 1228.8px;
+  margin: 76.8px 153.6px;
+  display: flex;
+  flex-direction: column;
+  gap: 30.72px;
+}
+.card {
+  display: flex;
+  gap: 23.04px;
+}
+.card .card-content img {
+  width: 47.68px;
+  height: 51px;
+}
+.card-content {
+  width: 289.92px;
+  height: 234.24px;
+}
+.card .card-content .subtitle {
+  color: rgba(14, 14, 14, 0.8);
+  font-family: Fira Sans;
+  font-size: 19.2px;
+  font-weight: 672;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 24px;
+  margin-bottom: 11.52px;
+}
+.card .card-content .description {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.pillar .title {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 38.4px;
+  font-weight: 632;
+  line-height: 46.08px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+/* Pillars of "Bangladesh 2.0 End */
