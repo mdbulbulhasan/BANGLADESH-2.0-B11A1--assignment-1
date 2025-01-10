@@ -6,14 +6,36 @@
   margin: 0;
   padding: 0;
 }
-
-/* body {
-    max-width: 1228.8px;
-} */
+.container {
+}
+/* Create Global Class for Button */
+.btn {
+  border-radius: 7.68px;
+  background: rgb(0, 106, 80);
+  color: rgb(255, 255, 255);
+  font-family: Fira Sans;
+  font-size: 17.28px;
+  font-weight: 576;
+  line-height: 21.12px;
+  letter-spacing: 0%;
+  text-align: left;
+  border: none;
+  padding: 16.32px 32.64px 16.32px 32.64px;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.btn:hover {
+  background-color: white;
+  color: rgb(0, 106, 80);
+  box-sizing: border-box;
+  border: 1px solid rgb(0, 106, 80);
+  border-radius: 8px;
+}
 /* Navigation Bar Section Start */
 .navbar {
   padding: 23.04px 153.6px 23.04px 153.6px;
   background: rgb(245, 245, 245);
+  width: 1228.8px;
 }
 .nav-bar {
   display: flex;
@@ -24,13 +46,10 @@
   color: rgb(14, 14, 14);
   font-family: Fira Sans;
   font-size: 30.72px;
-  font-weight: 700;
+  font-weight: 672;
   line-height: 36.48px;
   letter-spacing: 0%;
   text-align: left;
-}
-.nav-bar .nav-right span {
-  
 }
 .nav-bar .nav-right button {
   box-sizing: border-box;
@@ -47,8 +66,49 @@
   text-align: left;
 }
 .nav-bar .nav-right button:hover {
-    background-color: rgb(0, 106, 80);
-    color: white;
-    transition: 0.5s ease;
+  background-color: rgb(0, 106, 80);
+  color: white;
+  transition: 0.5s ease;
 }
 /* Navigation Bar Section End */
+
+/* Hero Section Start */
+.hero {
+  border-radius: 23.04px;
+  background: rgb(198, 228, 214);
+  width: 1228.8px;
+  margin: 19.2px 153.6px 76.8px 153.6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero .left {
+  width: 597.12px;
+  margin: 112.32px 61.44px;
+}
+.hero .subtitle {
+  color: rgba(14, 14, 14, 0.5);
+  font-family: Fira Sans;
+  font-size: 23.04px;
+  font-weight: 480;
+  line-height: 27.84px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 15.36px;
+}
+.hero .title {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 53.76px;
+  font-weight: 672;
+  line-height: 64.32px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 23.04px;
+}
+.hero .right {
+  width: 456.91px;
+  height: 384px;
+  margin: 76.8px 61.44px;
+}
+/* Hero Section End */
