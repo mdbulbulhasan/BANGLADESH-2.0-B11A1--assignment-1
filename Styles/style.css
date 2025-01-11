@@ -601,7 +601,7 @@
 /* Newsletter Section End */
 
 /* Footer Section Start */
-/* footer h1 {
+footer h1 {
   color: rgb(14, 14, 14);
   font-family: Fira Sans;
   font-size: 30.72px;
@@ -617,5 +617,5 @@ footer .icon {
   align-items: center;
   gap: 22.08px;
   margin: 61.44px 0px 48px;
-} */
+}
 /* Footer Section End */
