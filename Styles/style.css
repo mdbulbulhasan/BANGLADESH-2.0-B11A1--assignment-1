@@ -27,7 +27,7 @@
   color: rgb(0, 106, 80);
   box-sizing: border-box;
   border: 1px solid rgb(0, 106, 80);
-  border-radius: 8px;
+  border-radius: 7.68px;
 }
 /* Navigation Bar Section Start */
 .navbar {
@@ -161,3 +161,205 @@
   text-align: left;
 }
 /* Pillars of "Bangladesh 2.0 End */
+
+/* Future Section Start */
+.future {
+  width: 1228.8px;
+  margin: 76.8px 153.6px;
+  display: flex;
+  flex-direction: column;
+  gap: 30.72px;
+}
+.future h1 {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 38.4px;
+  font-weight: 672;
+  line-height: 46.08px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 23.04px 0px;
+}
+.future p {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 15.7px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+.future .fv-card {
+  display: flex;
+  gap: 23.04px;
+}
+.future .fv-card .card-1 {
+  background: rgba(84, 144, 245, 0.2);
+  width: 394.2425px;
+  height: 312px;
+  box-sizing: border-box;
+  border-radius: 15.36px;
+}
+.future .fv-card .card-2 {
+  background: rgb(198, 228, 214);
+  width: 394.2425px;
+  height: 312px;
+  box-sizing: border-box;
+  border-radius: 15.36px;
+}
+.future .fv-card .card-3 {
+  background: rgb(247, 235, 207);
+  width: 394.2425px;
+  height: 312px;
+  box-sizing: border-box;
+  border-radius: 15.36px;
+}
+.future .future-card {
+  width: 394.2425px;
+  height: 312px;
+  box-sizing: border-box;
+  border-radius: 15.36px;
+  padding: 30.72px;
+  margin: 0px 23.04px;
+}
+.future .future-card img {
+  width: 59.52px;
+  height: 59.52px;
+}
+.future .future-card .title {
+  color: rgba(14, 14, 14, 0.8);
+  font-family: Fira Sans;
+  font-size: 19.2px;
+  font-weight: 672;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+.future .future-card .description {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+.future .card-1 .future-card button {
+  color: rgb(255, 255, 255);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 576;
+  line-height: 18.24px;
+  letter-spacing: 0%;
+  text-align: left;
+  padding: 10.56px 19.2px 10.56px 19.2px;
+  margin: 23.04px 0px 30.72px;
+  border-radius: 7.68px;
+  background: rgb(84, 144, 245);
+  border: none;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.future .card-1 .future-card button:hover {
+  background-color: white;
+  color: rgb(84, 144, 245);
+  box-sizing: border-box;
+  border: 1px solid rgb(84, 144, 245);
+  border-radius: 7.68px;
+}
+.future .card-2 .future-card button {
+  color: rgb(255, 255, 255);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 576;
+  line-height: 18.24px;
+  letter-spacing: 0%;
+  text-align: left;
+  padding: 10.56px 19.2px 10.56px 19.2px;
+  margin: 46.08px 0px 30.72px;
+  border-radius: 7.68px;
+  background: rgb(9, 161, 92);
+  border: none;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.future .card-2 .future-card button:hover {
+  background-color: white;
+  color: rgb(9, 161, 92);
+  box-sizing: border-box;
+  border: 1px solid rgb(9, 161, 92);
+  border-radius: 7.68px;
+}
+.future .card-3 .future-card button {
+  color: rgb(255, 255, 255);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 576;
+  line-height: 18.24px;
+  letter-spacing: 0%;
+  text-align: left;
+  padding: 10.56px 19.2px 10.56px 19.2px;
+  margin: 30px 0px;
+  border-radius: 7.68px;
+  background: rgb(84, 144, 245);
+  border: none;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.future .card-3 .future-card button:hover {
+  background-color: white;
+  color: rgb(84, 144, 245);
+  box-sizing: border-box;
+  border: 1px solid rgb(84, 144, 245);
+  border-radius: 7.68px;
+}
+/* Future Section End */
+
+/* Quote Section Start */
+/* .quote {
+  width: 1228.8px;
+  margin: 76.8px 153.6px;
+  display: flex;
+  flex-direction: column;
+  gap: 11.52px;
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 15.36px;
+  background: rgb(255, 255, 255);
+  background-image: url("../assets/quote-bg.png");
+  background-repeat: no-repeat;
+}
+.quote .top p {
+  color: rgba(14, 14, 14, 0.8);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 21.6px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+.quote .bottom h2 {
+  color: rgba(14, 14, 14, 0.8);
+  font-family: Fira Sans;
+  font-size: 19.2px;
+  font-weight: 576;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 3.84px 0px;
+}
+.quote .bottom p {
+  color: rgba(14, 14, 14, 0.6);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 3.84px 0px;
+} */
+/* Quote Section End */
