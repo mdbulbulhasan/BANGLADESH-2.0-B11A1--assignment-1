@@ -363,6 +363,7 @@
 }
 /* Quote Section End */
 
+
 /* Recent News Section Start */
 .recent-news {
   width: 1228.8px;
@@ -617,5 +618,6 @@ footer .icon {
   align-items: center;
   gap: 22.08px;
   margin: 61.44px 0px 48px;
+  cursor: pointer;
 }
 /* Footer Section End */
