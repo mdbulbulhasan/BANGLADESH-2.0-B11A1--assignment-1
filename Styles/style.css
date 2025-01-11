@@ -515,3 +515,107 @@
   text-align: center;
 }
 /* Recent News Section End */
+
+/* Newsletter Section Start */
+.newsletter {
+  width: 1228.8px;
+  margin: 76.8px 153.6px;
+  border-radius: 23.04px;
+  background: rgb(198, 228, 214);
+  padding: 76.8px 0px 76.8px;
+}
+.newsletter .top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.newsletter .top h1 {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 38.4px;
+  font-weight: 672;
+  line-height: 46.08px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 15.36px 0px;
+}
+.newsletter .top .description {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 597.12px;
+  height: 46.08px;
+}
+.bottom .input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bottom input {
+  border-radius: 7.68px 0px 0px 7.68px;
+  background: rgb(255, 255, 255);
+  padding: 17.35px 38.4px 17.35px 38.4px;
+  margin: 23.04px 0px 24px;
+  width: 576px;
+  border: none;
+  outline: none;
+}
+.bottom .btn-news {
+  border-radius: 0px 7.68px 7.68px 0px;
+  background: rgb(0, 106, 80);
+  color: rgb(255, 255, 255);
+  font-family: Fira Sans;
+  font-size: 17.28px;
+  font-weight: 576;
+  line-height: 21px;
+  letter-spacing: 0%;
+  text-align: left;
+  border: none;
+  padding: 16px 32.64px 16px 32.64px;
+  margin: 0px 0px;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.bottom .btn-news:hover {
+  background-color: white;
+  color: rgb(0, 106, 80);
+  box-sizing: border-box;
+  border: 1px solid rgb(0, 106, 80);
+  border-radius: 0px 7.68px 7.68px 0px;
+}
+.bottom p {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 18.24px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 23.04px 0px;
+}
+/* Newsletter Section End */
+
+/* Footer Section Start */
+/* footer h1 {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 30.72px;
+  font-weight: 672;
+  line-height: 36.48px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 15.36px 0px;
+}
+footer .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 22.08px;
+  margin: 61.44px 0px 48px;
+} */
+/* Footer Section End */
