@@ -32,7 +32,6 @@
 /* Navigation Bar Section Start */
 .navbar {
   padding: 23.04px 153.6px 23.04px 153.6px;
-  background: rgb(245, 245, 245);
   width: 1228.8px;
 }
 .nav-bar {
@@ -442,5 +441,77 @@
   letter-spacing: 0%;
   text-align: left;
   margin: 11.52px 0px;
+}
+/* Recent News Section End */
+
+/* Recent News Section Start */
+.donate {
+  width: 1228.8px;
+  margin: 76.8px 153.6px;
+}
+.donate .top h1 {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 38.4px;
+  font-weight: 672;
+  line-height: 46.08px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 23.04px 0px;
+}
+.donate .top p {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 17.4px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 0px 23.04px;
+}
+.donate .middle button {
+  padding: 38.4px;
+  margin: 30.72px 23.04px;
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 15.36px;
+  background: rgb(255, 255, 255);
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+.donate .middle button:hover {
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 15.36px;
+  background: rgb(198, 228, 214);
+}
+.donate .middle button p {
+  color: rgba(14, 14, 14, 0.8);
+  font-family: Fira Sans;
+  font-size: 38.4px;
+  font-weight: 672;
+  line-height: 46.08px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+.donate .middle input {
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  background: rgb(255, 255, 255);
+  padding: 19.2px 38.4px 19.2px 38.4px;
+  margin: 30.72px 0px;
+  width: 100%;
+  color: rgba(14, 14, 14, 0.3);
+  font-family: Fira Sans;
+  font-size: 19.2px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.donate .bottom {
+  text-align: center;
 }
 /* Recent News Section End */
