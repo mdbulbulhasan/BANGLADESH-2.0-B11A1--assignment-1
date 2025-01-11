@@ -363,3 +363,84 @@
   margin: 3.84px 0px;
 }
 /* Quote Section End */
+
+/* Recent News Section Start */
+.recent-news {
+  width: 1228.8px;
+  margin: 76.8px 153.6px;
+  display: flex;
+  flex-direction: column;
+  gap: 30.72px;
+}
+.recent-news .top h1 {
+  color: rgb(14, 14, 14);
+  font-family: Fira Sans;
+  font-size: 38.4px;
+  font-weight: 630;
+  line-height: 46.08px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 23.04px 0px;
+}
+.recent-news .top p {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 15.7px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+.recent-news .bottom {
+  display: flex;
+  flex-direction: column;
+  gap: 23.04px;
+}
+.recent-news .news-content {
+  display: flex;
+  gap: 30.72px;
+  margin: 23.04px 0px;
+}
+.recent-news .news-content img {
+  width: 391.68px;
+  height: 293.76px;
+  border-radius: 23.04px;
+}
+.recent-news .news-content h1 {
+  color: rgba(14, 14, 14, 0.8);
+  font-family: Fira Sans;
+  font-size: 30.72px;
+  font-weight: 672;
+  line-height: 36.48px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+.recent-news .news-content .aljajeera {
+  width: 128.64px;
+  height: 38.4px;
+  margin: 11.52px 0px;
+}
+.recent-news .news-content span {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 0px 11.52px 11.52px 0px;
+}
+.recent-news .news-content p {
+  color: rgba(14, 14, 14, 0.7);
+  font-family: Fira Sans;
+  width: 714.24px;
+  font-size: 15.36px;
+  font-weight: 384;
+  line-height: 23.04px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 11.52px 0px;
+}
+/* Recent News Section End */
