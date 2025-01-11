@@ -602,6 +602,10 @@
 /* Newsletter Section End */
 
 /* Footer Section Start */
+footer {
+  width: 1228.8px;
+  margin: 76.8px 153.6px;
+}
 footer h1 {
   color: rgb(14, 14, 14);
   font-family: Fira Sans;
